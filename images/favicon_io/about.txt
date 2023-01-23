@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Jim Nightshade
+- Font Author: Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name "Jim Nightshade"
+- Font Source: http://fonts.gstatic.com/s/jimnightshade/v20/PlIkFlu9Pb08Q8HLM1PxmB0g-OS4V3qKaMxD.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
